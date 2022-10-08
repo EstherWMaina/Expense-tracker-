@@ -1,4 +1,4 @@
-Expense tracker app(fullstack)
+Expense tracker app(Frontend)
 
 Problem statement.
 Financial literacy is one of the key determinants to a successful life, however, many people are not enlightened in this area. Many people don't track their expenses; don't know how and where their money goes and therefore are not able to plan for today and the future. This is a major hinderance in achieving financial freedom.
@@ -20,9 +20,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Database used
-Mongodb
 
-The client file contains the frontend of the app: https://github.com/EstherWMaina/Expense-tracker-
+
 
 
