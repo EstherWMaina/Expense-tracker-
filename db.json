@@ -1,0 +1,14 @@
+{
+"transcations": [
+    {
+    "id": 1,
+    "Text": "salary",
+    "Amount": 70000
+     },
+    {
+    "id": 2,
+    "Text": "rent",
+    "Amount": "-10000"
+     }
+   ]
+}
